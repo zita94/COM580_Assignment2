@@ -60,7 +60,7 @@ namespace Students.Controllers
             return View(student);
         }
 
-        [HttpGet]
+        [HttpPost]
         public ActionResult Edit(Student student)
         {
             if (ModelState.IsValid)
