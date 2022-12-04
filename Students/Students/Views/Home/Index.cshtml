@@ -2,10 +2,10 @@
     ViewBag.Title = "Home Page";
 }
 
-<div class="jumbotron">
+<div class="jumbotron" id="info">
     <h1>International Student Information</h1>
     <p class="lead">To see the list of international students, please click the button below</p>
-    <p><a href="~/Student" class="btn btn-primary btn-lg">Students &raquo;</a></p>
+    <p><a href="~/Student" class="btn btn-primary btn-lg" id="studentButton">Students &raquo;</a></p>
 </div>
 
 <div class="row">
@@ -15,14 +15,14 @@
             The Student Portal provides easy access to your customisable and personal online services such as email, file storage,
             library services, the web-based learning environment, personal development planning, wellbeing and support.
         </p>
-        <p><a class="btn btn-default" href="https://portal.ulster.ac.uk/">Go to Ulster Portal &raquo;</a></p>
+        <p><a class="btn btn-default" id="btn" href="https://portal.ulster.ac.uk/" target="_blank">Go to Ulster Portal &raquo; </a></p>
     </div>
     <div class="col-md-4">
         <h2>Ulser University Library Services</h2>
         <p>
             Find out about Library services and resources supporting learning, teaching and research at the University by clicking the button bellow.
         </p>
-        <p><a class="btn btn-default" href="https://www.ulster.ac.uk/library/home">Go to Library &raquo;</a></p>
+        <p><a class="btn btn-default" id="btn" href="https://www.ulster.ac.uk/library/home" target="_blank">Go to Library &raquo;</a></p>
     </div>
     <div class="col-md-4">
         <h2>Blackboard Learn</h2>
@@ -30,6 +30,6 @@
             Blackboard Learn is the University's virtual learning environment, which gives the students onlinc access to course materials,
             reading lists and other resources, assignments, multiple choice tests and other content relevant to your course.' 
         </p>
-        <p><a class="btn btn-default" href="https://learning.ulster.ac.uk/webapps/login/">Go to Blackboard &raquo;</a></p>
+        <p><a class="btn btn-default" id="btn" href="https://learning.ulster.ac.uk/webapps/login/" target="_blank">Go to Blackboard &raquo;</a></p>
     </div>
 </div>

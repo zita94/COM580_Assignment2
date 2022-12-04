@@ -20,6 +20,8 @@ namespace Students.Controllers
         public ActionResult Contact()
         {
             ViewBag.ContactMessage = "Created by:";
+            ViewBag.CreatedBy = "Zita Koczka";
+            ViewBag.BNumber = "B00786645";
 
             return View();
         }

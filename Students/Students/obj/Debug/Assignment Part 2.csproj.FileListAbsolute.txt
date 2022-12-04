@@ -1,3 +1,6 @@
+D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\Assignment Part 2.dll.config
+D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\Assignment Part 2.dll
+D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\Assignment Part 2.pdb
 D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\roslyn\csc.exe
 D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\roslyn\csc.exe.config
 D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\roslyn\csc.rsp
@@ -48,6 +51,8 @@ D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Studen
 D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\roslyn\VBCSCompiler.exe
 D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\roslyn\VBCSCompiler.exe.config
 D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\Antlr3.Runtime.dll
+D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\EntityFramework.dll
+D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\EntityFramework.SqlServer.dll
 D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\Microsoft.Web.Infrastructure.dll
 D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\Newtonsoft.Json.dll
@@ -59,6 +64,8 @@ D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Studen
 D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\System.Web.WebPages.dll
 D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\System.Web.WebPages.Razor.dll
 D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\WebGrease.dll
+D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\EntityFramework.xml
+D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\EntityFramework.SqlServer.xml
 D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\System.Web.Helpers.xml
 D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\System.Web.Mvc.xml
 D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\System.Web.Optimization.xml
@@ -69,15 +76,8 @@ D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Studen
 D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\Newtonsoft.Json.xml
 D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\Antlr3.Runtime.pdb
 D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\obj\Debug\Students.csproj.AssemblyReference.cache
-D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
-D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\obj\Debug\Students.csproj.CopyComplete
-D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\EntityFramework.dll
-D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\EntityFramework.SqlServer.dll
-D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\EntityFramework.xml
-D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\EntityFramework.SqlServer.xml
-D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\Assignment Part 2.dll.config
-D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\Assignment Part 2.dll
-D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\Assignment Part 2.pdb
+D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\obj\Debug\Assignment Part 2.csproj.AssemblyReference.cache
+D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\obj\Debug\Assignment Part 2.csproj.CoreCompileInputs.cache
+D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\obj\Debug\Assignment Part 2.csproj.CopyComplete
 D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\obj\Debug\Assignment Part 2.dll
 D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\obj\Debug\Assignment Part 2.pdb
