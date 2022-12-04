@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.Mvc;
+﻿using System.Web.Mvc;
 
 namespace Students.Controllers
 {
@@ -15,14 +11,15 @@ namespace Students.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.AboutMessage = "This web application is for creating, editing, deleting and listing details of " +
+                "international students with the information stored in a supporting database.";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.ContactMessage = "Created by:";
 
             return View();
         }
