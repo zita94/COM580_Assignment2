@@ -1,3 +1,6 @@
+D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\AssignmentPart2.dll.config
+D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\AssignmentPart2.dll
+D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\AssignmentPart2.pdb
 D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\roslyn\csc.exe
 D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\roslyn\csc.exe.config
 D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\roslyn\csc.rsp
@@ -76,8 +79,5 @@ D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Studen
 D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\obj\Debug\AssignmentPart2.csproj.AssemblyReference.cache
 D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\obj\Debug\AssignmentPart2.csproj.CoreCompileInputs.cache
 D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\obj\Debug\AssignmentPart2.csproj.CopyComplete
-D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\AssignmentPart2.dll.config
-D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\AssignmentPart2.dll
-D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\bin\AssignmentPart2.pdb
 D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\obj\Debug\AssignmentPart2.dll
 D:\Zita\Uni stuff\Year 4\Assignments\EntComp2\COM580_Assignment2\Students\Students\obj\Debug\AssignmentPart2.pdb
