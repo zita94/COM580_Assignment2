@@ -36,4 +36,5 @@ A screenshot of the updated data in the database.
 <br/><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56891175/272042098-5bad19db-3b37-431b-a9d4-5c75f45b3948.png" width="700">
 
 ##
+Final Grade: 98
 COM580 Enterprise Computing
